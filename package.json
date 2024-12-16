@@ -1,0 +1,8 @@
+{
+  "name": "LABWEB",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ST-Sinu/LABWEB.git",
+  "author": "ST-Sinu <tlsgusdn98@gmail.com>",
+  "license": "MIT"
+}
